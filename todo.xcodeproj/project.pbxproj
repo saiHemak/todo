@@ -50,7 +50,7 @@
 		1582CCC21EDFF1BB003B86FD /* todoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = todoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1582CCC61EDFF1BB003B86FD /* todoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = todoUITests.swift; sourceTree = "<group>"; };
 		1582CCC81EDFF1BB003B86FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		617E0FBA1F0649C500B13502 /* TodoServerAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TodoServerAPI.swift; path = ../../../todo/todo/TodoServerAPI.swift; sourceTree = "<group>"; };
+		617E0FBA1F0649C500B13502 /* TodoServerAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TodoServerAPI.swift; path = TodoServerAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
